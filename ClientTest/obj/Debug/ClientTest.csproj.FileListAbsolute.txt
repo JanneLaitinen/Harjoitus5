@@ -5,3 +5,6 @@ Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\SocketTestThreadLoop\ClientTest\bin\
 Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\SocketTestThreadLoop\ClientTest\obj\Debug\ClientTest.exe
 Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\SocketTestThreadLoop\ClientTest\obj\Debug\ClientTest.pdb
 Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\SocketTestThreadLoop\ClientTest\obj\Debug\ClientTest.csprojResolveAssemblyReference.cache
+C:\tmp\uusikansio\Harjoitus5\ClientTest\bin\Debug\ClientTest.exe.config
+C:\tmp\uusikansio\Harjoitus5\ClientTest\obj\Debug\ClientTest.exe
+C:\tmp\uusikansio\Harjoitus5\ClientTest\obj\Debug\ClientTest.pdb
